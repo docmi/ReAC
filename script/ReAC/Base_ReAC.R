@@ -1,3 +1,4 @@
+Menyssa
 setwd("~/Documents/M2/Memoire/Base")
 Base <- read.csv("~/Documents/M2/Memoire/Base/Base.csv", sep=";", na.strings = c("NA",-1))
 # type d'arret cardiaque
